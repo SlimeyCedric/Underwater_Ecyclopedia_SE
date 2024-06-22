@@ -6,4 +6,3 @@ Kelompok 11
 - Matthew L
 - Matthew T
 - Franz M
-
