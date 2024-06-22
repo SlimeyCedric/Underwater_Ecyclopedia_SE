@@ -1,0 +1,56 @@
+.angler-button {
+    bg-[#FFFFFF]
+    p-[26px_25px_27px_25px]
+    box-sizing-border
+   }
+   .angler-button .bg-1 {
+    rounded-[10px]
+    bg-[linear-gradient(180deg,#A7E6FF,#3572EF)]
+    absolute
+    left-[0px]
+    top-[0px]
+    right-[0px]
+    bottom-[0px]
+    h-[100%]
+   }
+   .angler-button .back {
+    m-[0_0_250.2px_0]
+    self-start
+    w-[53.3px]
+    h-[46.8px]
+   }
+   .angler-button .angler-fish-1 {
+    bg-[url('../assets/images/angler_fish_11.gif')]
+    bg-[50%_50%]
+    bg-cover
+    bg-no-repeat
+    absolute
+    left-[-38px]
+    top-[-11px]
+    w-[475px]
+    h-[347px]
+   }
+   .angler-button .name-angler-fish-habitat-indian-pasific-and-atlantic-region-habits-carnivore-fun-fact-his-antena-can-glow {
+    break-words
+    font-['Inter']
+    font-normal
+    text-[20px]
+    text-[#FFFFFF]
+   }
+   .angler-button .container {
+    rounded-[10px]
+    bg-[rgba(5,12,156,0.5)]
+    relative
+    p-[17px_23px_0_23px]
+    w-[100%]
+    h-[250px]
+    box-sizing-border
+   }
+   .angler-button .container-1 {
+    relative
+    flex
+    flex-col
+    w-[100%]
+    h-[fit-content]
+    box-sizing-border
+   }

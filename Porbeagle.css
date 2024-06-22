@@ -1,0 +1,50 @@
+.porbeagle-button .name-porbeagle-shark-habitat-pasific-and-atlantic-region-habits-carnivor-fun-fact-porbeagle-sharks-are-known-to-engage-in-playful-behavior {
+    break-words
+    font-['Inter']
+    font-normal
+    text-[20px]
+    text-[#FFFFFF]
+   }
+   .porbeagle-button {
+    bg-[#FFFFFF]
+    flex
+    flex-col
+    p-[26px_25px_27px_25px]
+    box-sizing-border
+   }
+   .porbeagle-button .bg-1 {
+    rounded-[10px]
+    bg-[linear-gradient(180deg,#A7E6FF,#3572EF)]
+    absolute
+    left-[0px]
+    top-[0px]
+    right-[0px]
+    bottom-[0px]
+    h-[100%]
+   }
+   .porbeagle-button .back {
+    relative
+    m-[0_0_23.2px_0]
+    self-start
+    w-[53.3px]
+    h-[46.8px]
+   }
+   .porbeagle-button .porbeagle-shark-1 {
+    bg-[url('../assets/images/porbeagle_shark_11.gif')]
+    bg-[50%_50%]
+    bg-cover
+    bg-no-repeat
+    relative
+    m-[0_1px_23px_0]
+    self-center
+    w-[313px]
+    h-[204px]
+   }
+   .porbeagle-button .container {
+    rounded-[10px]
+    bg-[rgba(5,12,156,0.5)]
+    relative
+    flex
+    p-[5px_30.9px_5px_27px]
+    box-sizing-border
+   }

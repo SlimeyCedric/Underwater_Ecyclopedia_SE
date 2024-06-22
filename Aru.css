@@ -1,0 +1,57 @@
+.arwana-button {
+    bg-[#FFFFFF]
+    flex
+    p-[26px_25px_27px_25px]
+    box-sizing-border
+   }
+   .arwana-button .bg-1 {
+    rounded-[10px]
+    bg-[linear-gradient(180deg,#A7E6FF,#3572EF)]
+    absolute
+    left-[0px]
+    top-[0px]
+    right-[0px]
+    bottom-[0px]
+    h-[100%]
+   }
+   .arwana-button .bg-2 {
+    rounded-[10px]
+    bg-[rgba(5,12,156,0.5)]
+    w-[350px]
+    h-[250px]
+   }
+   .arwana-button .back {
+    m-[0_0_250.2px_0]
+    self-start
+    w-[53.3px]
+    h-[46.8px]
+   }
+   .arwana-button .arowana-1 {
+    bg-[url('../assets/images/arowana_1.gif')]
+    bg-[50%_50%]
+    bg-cover
+    bg-no-repeat
+    absolute
+    top-[-51px]
+    right-[-120px]
+    w-[601px]
+    h-[439px]
+   }
+   .arwana-button .name-arwana-habitat-south-asia-and-america-habits-carnivor-fun-fact-sometimes-leaping-up-to-3-feetabout-1-meter-above-the-waters-surface {
+    absolute
+    right-[37.7px]
+    bottom-[51px]
+    break-words
+    font-['Inter']
+    font-normal
+    text-[20px]
+    text-[#FFFFFF]
+   }
+   .arwana-button .container {
+    relative
+    flex
+    flex-col
+    w-[100%]
+    h-[fit-content]
+    box-sizing-border
+   }

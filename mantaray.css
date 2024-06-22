@@ -1,0 +1,55 @@
+.mantan-ray-button .name-mantaray-habitat-pasific-and-atlantic-region-habits-carnivor-fun-fact-manta-rays-have-the-largest-brain-to-body-ratio-of-any-fish {
+    break-words
+    font-['Inter']
+    font-normal
+    text-[20px]
+    text-[#FFFFFF]
+   }
+   .mantan-ray-button .container {
+    relative
+    flex
+    flex-col
+    w-[100%]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .mantan-ray-button {
+    bg-[#FFFFFF]
+    p-[26px_25px_27px_25px]
+    box-sizing-border
+   }
+   .mantan-ray-button .bg-1 {
+    rounded-[10px]
+    bg-[linear-gradient(180deg,#A7E6FF,#3572EF)]
+    absolute
+    left-[0px]
+    top-[0px]
+    right-[0px]
+    bottom-[0px]
+    h-[100%]
+   }
+   .mantan-ray-button .back {
+    m-[0_0_250.2px_0]
+    self-start
+    w-[53.3px]
+    h-[46.8px]
+   }
+   .mantan-ray-button .manta-ray-1 {
+    bg-[url('../assets/images/manta_ray_1.gif')]
+    bg-[50%_50%]
+    bg-cover
+    bg-no-repeat
+    absolute
+    left-[0px]
+    top-[50px]
+    right-[0px]
+    h-[250px]
+   }
+   .mantan-ray-button .container-1 {
+    rounded-[10px]
+    bg-[rgba(5,12,156,0.5)]
+    relative
+    p-[0_23px_10px_23px]
+    w-[100%]
+    box-sizing-border
+   }

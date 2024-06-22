@@ -1,0 +1,55 @@
+.thresher-button {
+    bg-[#FFFFFF]
+    p-[26px_25px_27px_25px]
+    box-sizing-border
+   }
+   .thresher-button .bg-1 {
+    rounded-[10px]
+    bg-[linear-gradient(180deg,#A7E6FF,#3572EF)]
+    absolute
+    left-[0px]
+    top-[0px]
+    right-[0px]
+    bottom-[0px]
+    h-[100%]
+   }
+   .thresher-button .back {
+    m-[0_0_250.2px_0]
+    self-start
+    w-[53.3px]
+    h-[46.8px]
+   }
+   .thresher-button .name-thresher-shark-habitat-pasific-and-atlantic-region-habits-carnivor-fun-fact-thresher-sharks-use-their-long-whip-like-tails-to-stun-prey-such-as-small-fish {
+    break-words
+    font-['Inter']
+    font-normal
+    text-[20px]
+    text-[#FFFFFF]
+   }
+   .thresher-button .container {
+    relative
+    flex
+    flex-col
+    w-[100%]
+    h-[fit-content]
+    box-sizing-border
+   }
+   .thresher-button .thresher-2 {
+    bg-[url('../assets/images/thresher_2.gif')]
+    bg-[50%_50%]
+    bg-cover
+    bg-no-repeat
+    absolute
+    left-[12px]
+    top-[30px]
+    right-[12.2px]
+    h-[271.5px]
+   }
+   .thresher-button .container-1 {
+    rounded-[10px]
+    bg-[rgba(5,12,156,0.5)]
+    relative
+    p-[0_27px_10px_27px]
+    w-[100%]
+    box-sizing-border
+   }
